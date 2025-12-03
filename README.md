@@ -1,4 +1,4 @@
-# TikTok Engagement Analytics – Content Performance & Trends
+# TikTok Engagement Analytics - Content Performance & Trends
 This repository contains my work for the **TikTok capstone project** from the Google Advanced Data Analytics programme.
 The goal is to use TikTok post-level data to:
 - Explore which content features (e.g. video category, duration, hashtags, posting time) are associated with higher engagement.
