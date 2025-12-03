@@ -3,7 +3,7 @@ This repository contains my work for the **TikTok capstone project** from the Go
 The goal is to use TikTok post-level data to:
 - Explore which content features (e.g. video category, duration, hashtags, posting time) are associated with higher engagement.
 - Visualise engagement patterns and trends.
-- Provide practical recommendations for improving content performance.
+- Provide practical recommendations for improving content performance.  
 The analysis is implemented in Python using **pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly**, and **SciPy**.
 ---
 ## Repository structure
